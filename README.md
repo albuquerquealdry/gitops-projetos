@@ -3,7 +3,7 @@
 ---
 
 # Gerenciamento de Envs por catálogo de envs:
-
+## Para executar esse código é só executar o main.py.
 O objetivo desse projeto é usar 100% o git para gerenciar os valores das variáveis de ambiente através de um script python:
 ![Captura de tela de 2022-06-04 23-09-39](https://user-images.githubusercontent.com/85401149/172031956-aff41a78-8bd0-407f-ba33-4040522c5c87.png)
 
