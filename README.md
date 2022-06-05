@@ -28,3 +28,10 @@ O objetivo desse projeto é usar 100% o git para gerenciar os valores das variá
 ##### Vamos corrigir o valor no catálogo:
 ![Captura de tela de 2022-06-04 23-25-56](https://user-images.githubusercontent.com/85401149/172032326-b863a885-d0ec-4f24-b87b-fc697200762d.png)
 
+##### E na linha 12 nos vemos que na geração do configmap já foi aplicada a alteração:
+
+![Captura de tela de 2022-06-04 23-27-09](https://user-images.githubusercontent.com/85401149/172032373-f6b0e781-1b73-4c20-a1b0-ac8e097142ab.png)
+
+##### Sensação no configmap é sensacional:
+![LivelyKindlyHoneybadger-size_restricted](https://user-images.githubusercontent.com/85401149/172032404-6d3c8fa5-702d-4869-aad8-ff9f161cb180.gif)
+
