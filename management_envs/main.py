@@ -27,4 +27,4 @@ def synchronize():
         os.system(f""" sed -i "s/NAMESERVICE/{service}/g" configmap.yaml """)
         os.system("rm -rf env-catalog ")
 
-sicronizer()
+synchronize()
