@@ -1,4 +1,3 @@
-from argparse import Namespace
 import os 
 import json
 
@@ -15,7 +14,7 @@ def checkEnvs():
     with open (".env", "r") as env:
         return (env.readlines())
 
-def sicronizer():
+def synchronize():
     getEnvs = cloneCatalog()
     envs = checkEnvs()
     os.system("cp -f files/configmapBase.yaml configmap.yaml")
