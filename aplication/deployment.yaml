@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: app
-        image: aldry1303/argocdlab
+        image: aldry1303/argocdlab:1.0.0
         ports:
         - containerPort: 80
