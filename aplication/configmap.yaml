@@ -1,14 +1,11 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: RAP_API
+  creationTimestamp: 2016-02-18T19:14:38Z
+  name: special-config
+  namespace: default
+  resourceVersion: "651"
+  uid: dadce046-d673-11e5-8cd0-68f728db1985
 data:
-	MONGO_DB_HOST : mongo_db_cloud.com.br 
-	MONGO_DB_PORT : 8871 
-	REDIS_HOST : redis.gokudocabo.yaml 
-	JUAO_ENV : zica 
-	PEDRO_ENV : lilraffbro.com 
-	FROID_ENV : froidinho 
-	DJONGA_ENV : sensação 
-	DOKA_ENV : poche 
-	KID_LAROI : ASAOJS 
+  special.how: very
+  special.type: charm
